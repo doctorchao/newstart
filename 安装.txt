@@ -1,0 +1,15 @@
+官网安装nodejs  一路next
+
+npm install nrm -g  
+nrm ls  查看当前下载源列表
+nrm use taobao    切换到 https://registry.npm.taobao.org 淘宝源
+npm install cnpm -g  安装 cnpm下载器
+
+
+
+全局安装 npm install express-generator -g
+
+全局安装 npm install -g @vue/cli 第三版    创建项目 vue create name
+下一个桥接工具 npm install -g @vue/cli-init  第二版     创建项目  vue init webpack name
+
+官网安装git  一路next
